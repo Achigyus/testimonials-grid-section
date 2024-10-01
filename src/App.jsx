@@ -18,7 +18,7 @@ function App() {
                 <img src={danielPic} alt="#" className="testimonials_grid_section_img" />
               </div>
               <div className="testimonials_grid_section_name_container">
-                <h3 className="testimonials_grid_section_name barlow_semi_condensed">Daniel Clifford</h3>
+                <p className="testimonials_grid_section_name barlow_semi_condensed">Daniel Clifford</p>
                 <p className="testimonials_grid_section_rank barlow_semi_condensed">Verified Graduate</p>
               </div>
               <img src={quotePic} alt="#" className="testimonials_grid_section_quote_img" />
@@ -40,7 +40,7 @@ function App() {
                 <img src={jonathanPic} alt="#" className="testimonials_grid_section_img" />
               </div>
               <div className="testimonials_grid_section_name_container">
-                <h3 className="testimonials_grid_section_name barlow_semi_condensed">Jonathan Walters</h3>
+                <p className="testimonials_grid_section_name barlow_semi_condensed">Jonathan Walters</p>
                 <p className="testimonials_grid_section_rank barlow_semi_condensed">Verified Graduate</p>
               </div>
             </div>
@@ -57,7 +57,7 @@ function App() {
                 <img src={jeanettePic} alt="#" className="testimonials_grid_section_img" />
               </div>
               <div className="testimonials_grid_section_name_container">
-                <h3 className="testimonials_grid_section_name barlow_semi_condensed">Jeanette Harmon</h3>
+                <p className="testimonials_grid_section_name barlow_semi_condensed">Jeanette Harmon</p>
                 <p className="testimonials_grid_section_rank barlow_semi_condensed">Verified Graduate</p>
               </div>
             </div>
@@ -74,7 +74,7 @@ function App() {
                 <img src={patrickPic} alt="#" className="testimonials_grid_section_img" />
               </div>
               <div className="testimonials_grid_section_name_container">
-                <h3 className="testimonials_grid_section_name barlow_semi_condensed">Patrick Abrams</h3>
+                <p className="testimonials_grid_section_name barlow_semi_condensed">Patrick Abrams</p>
                 <p className="testimonials_grid_section_rank barlow_semi_condensed">Verified Graduate</p>
               </div>
             </div>
@@ -94,7 +94,7 @@ function App() {
                 <img src={kiraPic} alt="#" className="testimonials_grid_section_img" />
               </div>
               <div className="testimonials_grid_section_name_container">
-                <h3 className="testimonials_grid_section_name barlow_semi_condensed">Kira Whittle</h3>
+                <p className="testimonials_grid_section_name barlow_semi_condensed">Kira Whittle</p>
                 <p className="testimonials_grid_section_rank barlow_semi_condensed">Verified Graduate</p>
               </div>
             </div>
